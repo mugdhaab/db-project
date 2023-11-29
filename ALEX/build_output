@@ -1,0 +1,5 @@
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/u1419417/Desktop/ALEX/ALEX/build
+Consolidate compiler generated dependencies of target example
+[ 16%] Building CXX object CMakeFiles/example.dir/src/examples/main.cpp.o
